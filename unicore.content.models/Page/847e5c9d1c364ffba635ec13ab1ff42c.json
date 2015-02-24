@@ -6,15 +6,17 @@
   "primary_category": "62635bb0857b419aab8318a1d2c46b71", 
   "created_at": "2015-02-24T13:38:29+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-02-24T13:41:00.536866+00:00", 
+  "modified_at": "2015-02-24T13:44:23.839724+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "2462d71a4bb44ede88bebbca5884be07"
+  ], 
   "id": null, 
   "content": "A mal\u00e1ria \u00e9 mortal mas pode proteger a sua fam\u00edlia e voc\u00ea mesmo com gestos muito simples:\r\n\r\n**Durma sempre com um mosquiteiro**\r\n\r\nO mosquito da mal\u00e1ria pica com mais frequ\u00eancia durante a noite. Por isso deve dormir com um mosquiteiro tratado todas as noites bem como as crian\u00e7as em casa.\r\n\r\n**Remova todo o lixo e \u00e1guas paradas.**\r\n\r\nOs mosquitos reproduzem-se em \u00e1guas paradas como tal \u00e9 importante livrar-se do lixo e de pe\u00e7as como pneus usados que podem guardar \u00e1guas e virar viveiros para mosquitos.\r\n\r\n**Mantenha a sua casa pulverizada com insecticida**\r\n\r\nPode pulverizar insecticidas em algumas \u00e1reas da sua casa que matam os mosquitos da mal\u00e1ria.  S\u00e3o os sprays para insectos que podem ajudar a manter protegida a sua fam\u00edlia.\r\n\r\n**Tome todos os comprimidos!**\r\n\r\nSe est\u00e1 em tratamento, tomar todos os comprimidos \u00e9 um passo muito importante para remover todos os parasitas do seu corpo. Mesmo que j\u00e1 n\u00e3o se sinta doente, acabe o tratamento da mal\u00e1ria para n\u00e3o continuar a ser uma amea\u00e7a para a sua fam\u00edlia.\r\n\r\nSaiba mais sobre o tratamento da mal\u00e1ria", 
   "source": "a499180c8d2a4a71bcc8b86e6047c883", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-prevenir-malaria", 
   "uuid": "847e5c9d1c364ffba635ec13ab1ff42c"
