@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Se tem mal\u00e1ria \u00e9 importante procurar um m\u00e9dico imediatamente. Se n\u00e3o for tratada, a mal\u00e1ria pode ser mortal.", 
+  "language": "por_PT", 
+  "title": "Como tratar a mal\u00e1ria", 
+  "primary_category": "62635bb0857b419aab8318a1d2c46b71", 
+  "created_at": "2015-02-24T13:37:36.657464+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-02-24T13:37:36.657691+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Se tem sintomas de mal\u00e1ria, precisa de procurar por ajuda m\u00e9dica rapidamente para garantir a sua sa\u00fade e da sua comunidade.\r\n\r\n**Procure um m\u00e9dico...imediatamente!**\r\n\r\nMesmo que n\u00e3o tenha a certeza dos sintomas procure um m\u00e9dico ou um t\u00e9cnico de sa\u00fade imediatamente! N\u00e3o vale a pena esperar pois a mal\u00e1ria \u00e9 muito mais perigosa se n\u00e3o for tratada.\r\n\r\n**Fa\u00e7a o teste de gota espessa**\r\n\r\nO Teste de Diagn\u00f3stico R\u00e1pido (TDR) pode dar um rigoroso diagn\u00f3stico em apenas 15 minutos. O seu m\u00e9dico dever\u00e1 ter testes de gota espessa - \u00e0s vezes os t\u00e9cnicos de sa\u00fade podem test\u00e1-lo mesmo no seu bairro.\r\n\r\n**Fa\u00e7a o tratamento**\r\n\r\nO seu m\u00e9dico local ou t\u00e9cnico de sa\u00fade devem participar no tratamento para ajud\u00e1-lo a sentir-se melhor. Em casos normais a mal\u00e1ria pode ser curada em alguns dias mas o seu profissional de sa\u00fade sabe melhor disso.\r\n\r\n**Fa\u00e7a TODO o tratamento**\r\n\r\nLembre-se que se n\u00e3o acabar o tratamento, continuar\u00e1 a ter mal\u00e1ria e ser\u00e1 uma amea\u00e7a \u00e0 todos que o rodeiam. Os mosquitos continuar\u00e3o a tirar a mal\u00e1ria do seu corpo e a infectar a pessoa que picarem a seguir. Ent\u00e3o, mesmo que se sinta melhor, por favor pense na sua fam\u00edlia e amigos e acabe o tratamento.", 
+  "source": "21d0651e8d0f41e0911582bd0d265e6c", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "como-tratar-malaria", 
+  "uuid": "2462d71a4bb44ede88bebbca5884be07"
+}
