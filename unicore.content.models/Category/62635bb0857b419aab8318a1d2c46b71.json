@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "62635bb0857b419aab8318a1d2c46b71", 
+  "language": "por_PT", 
+  "title": "Mal\u00e1ria", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "malaria", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
