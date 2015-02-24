@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "bfbf1b25c9b04bc28c863cc5ae900613", 
+  "language": "ara_AE", 
+  "title": "\u0627\u0644\u0645\u0644\u0627\u0631\u064a\u0627", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "malaria-arabic", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
