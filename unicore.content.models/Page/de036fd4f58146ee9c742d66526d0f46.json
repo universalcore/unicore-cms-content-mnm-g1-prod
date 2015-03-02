@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "N\u00e3o conseguiremos combater a mal\u00e1ria sem compreend\u00ea-la. Saiba mais sobre essa doen\u00e7a que afecta por ano 200 milh\u00f5es de pessoas.", 
+  "description": "N\u00e3o conseguiremos combater a mal\u00e1ria sem compreend\u00ea-la. Saiba mais sobre essa doen\u00e7a que afecta 200 milh\u00f5es de pessoas por ano.", 
   "language": "por_PT", 
   "title": "O que \u00e9 a mal\u00e1ria?", 
   "primary_category": "62635bb0857b419aab8318a1d2c46b71", 
-  "created_at": "2015-02-24T13:40:01.897841+00:00", 
+  "created_at": "2015-02-24T13:40:01+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-02-24T16:41:48.178727+00:00", 
+  "modified_at": "2015-03-02T10:36:37.716771+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
